@@ -19,9 +19,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okjo&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okjo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
