@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/okjo/okjo/main/8401-white-tree.gif" alt="Banner" width="100%" height="150" />
+  <img src="https://raw.githubusercontent.com/okjo/okjo/main/8401-white-tree.gif" alt="Banner" width="100%" height="250" />
 </p>
 
 ### about
