@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate developer building cool things.</h3>
+<h1 align="center">yo wsg g im fall</h1>
+<h3 align="center">a html - java - and c++ developer makin things.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=14+Year+Old+Developer;HTML+%7C+Java+%7C+C%2B%2B;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -7,16 +7,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **my own projects**
-- 🌱 I’m currently learning **Java and C++**
-- 💬 Ask me about **HTML, CSS, or basic programming**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love turning coffee into code**
+### about me 👀
+- currently working on **my own projects**
+- currently learning **Java and C++**
+- dont ask me about **HTML, CSS, or basic programming**
+- how to reach me: **treadingg@proton.me**
+- fun fact: **i love turning coffee into code**
 
 ---
 
-### 🛠️ Core Skills
+### 🛠️ some core skills
 
 **Languages:**
 <p align="left">
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+### my gitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -47,16 +47,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
-### 🤝 Connect with me
+### connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://discord.gg/yourinvite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://discord.gg/ZtSxpJbmE" target="blank"><img
 </p>
